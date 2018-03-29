@@ -8,7 +8,7 @@ export default class ModalThree extends React.Component{
                 
                 <div className="modalinside"> 
                         <div className="orpart topart">
-                            <h3>My Retirement</h3>
+                            <h3>My<br /> Retirement</h3>
                             <div className="sip">SIP</div>
                             <div className="sipdesc">Invest a fixed amount monthly</div>
                         </div>

@@ -13,7 +13,6 @@ export default class App extends React.Component{
     }
     render(){
         return(<div>
-            <button className="btn btn-primary">Hello</button>
                 <Router><Switch>
                     <Route exact path="/" component={ModalOne} />
                     <Route exact path="/two" component={ModalTwo} />
